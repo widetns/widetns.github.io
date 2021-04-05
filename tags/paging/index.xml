@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paging on Tech Blog</title>
+    <link>/tags/paging/</link>
+    <description>Recent content in Paging on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/paging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory</title>
+      <link>/basics_of_computer_science/operating_system/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/operating_system/memory/</guid>
+      <description>Memory 각각의 프로세스 는 독립된 메모리 공간을 갖고, 운영체제 혹은 다른 프로세스의 메모리 공간에 접근할 수 없는 제한이 걸려있다. 단지, 운영체제 만이 운영체제 메모리 영역과 사용자 메모리 영역의 접근에 제약을 받지 않는다.
+Swapping : 메모리의 관리를 위해 사용되는 기법. 표준 Swapping 방식으로는 round-robin 과 같은 스케줄링의 다중 프로그래밍 환경에서 CPU 할당 시간이 끝난 프로세스의 메모리를 보조 기억장치(e.g. 하드디스크)로 내보내고 다른 프로세스의 메모리를 불러 들일 수 있다.
+ 이 과정을 swap (스왑시킨다) 이라 한다.</description>
+    </item>
+    
+  </channel>
+</rss>

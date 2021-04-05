@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Tech Blog</title>
+    <link>/tags/tips/</link>
+    <description>Recent content in Tips on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>좋은 코드란 무엇인가?</title>
+      <link>/basics_of_computer_science/common_sense_of_development/what_is_good_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/common_sense_of_development/what_is_good_code/</guid>
+      <description>프로그래밍을 하는 개발자는 모두 좋은 코드를 작성하고 싶다고 생각한다.
+누구나 관심 있어 하는 주제인 만큼, 여러 고민을 거듭해왔고 여태까지의 생각을 정리해보려고 한다.
+어떤 프로그램을 구성하는 코드냐에 따라 여러 기준으로 생각해보았다.
+ Good Code ? &amp;ldquo;좋은 코드란?&amp;rdquo; 이라고 구글링해보면 많은 검색 결과가 나온다.
+&amp;ldquo;좋은 코드&amp;quot;란 정체도, 실체도 없이 이 세상에 떠돌고 있다.
+모두가 &amp;ldquo;좋은 코드&amp;quot;의 기준이 조금씩 다르고 각각의 경험을 기반으로 좋은 코드를 정의하고 있다.
+좋은 코드의 정의는 정말 많다.
+ 읽기 쉬운 코드 중복이 없는 코드 테스트가 용이한 코드 &amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

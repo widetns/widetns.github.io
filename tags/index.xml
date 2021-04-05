@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tech Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Async</title>
+      <link>/tags/async/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking</title>
+      <link>/tags/blocking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blocking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache</title>
+      <link>/tags/cache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONNECT</title>
+      <link>/tags/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/connect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/tags/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/tags/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DELETE</title>
+      <link>/tags/delete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>/tags/dns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FP</title>
+      <link>/tags/fp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GET</title>
+      <link>/tags/get/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/get/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good Code</title>
+      <link>/tags/good-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/good-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEAD</title>
+      <link>/tags/head/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTP</title>
+      <link>/tags/http/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTP Methods</title>
+      <link>/tags/http-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/http-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTPS</title>
+      <link>/tags/https/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IP</title>
+      <link>/tags/ip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality</title>
+      <link>/tags/locality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/locality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lock</title>
+      <link>/tags/lock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>/tags/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultiProcess</title>
+      <link>/tags/multiprocess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiprocess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultiThread</title>
+      <link>/tags/multithread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multithread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>/tags/mvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-blocking</title>
+      <link>/tags/non-blocking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/non-blocking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalization</title>
+      <link>/tags/normalization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/normalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>/tags/nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>/tags/oop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OPTIONS</title>
+      <link>/tags/options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/options/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paging</title>
+      <link>/tags/paging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradigm</title>
+      <link>/tags/paradigm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paradigm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATCH</title>
+      <link>/tags/patch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/patch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB</title>
+      <link>/tags/pcb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POST</title>
+      <link>/tags/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PP</title>
+      <link>/tags/pp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PreparedStatement</title>
+      <link>/tags/preparedstatement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/preparedstatement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>/tags/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PUT</title>
+      <link>/tags/put/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/put/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RestFulApi</title>
+      <link>/tags/restfulapi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/restfulapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/tags/scheduling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>/tags/segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement</title>
+      <link>/tags/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/statement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sync</title>
+      <link>/tags/sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCP</title>
+      <link>/tags/tcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDD</title>
+      <link>/tags/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thread</title>
+      <link>/tags/thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/thread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>/tags/tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRACE</title>
+      <link>/tags/trace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transaction</title>
+      <link>/tags/transaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UDP</title>
+      <link>/tags/udp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/udp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Memory</title>
+      <link>/tags/virtual-memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/virtual-memory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

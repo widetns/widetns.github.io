@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MultiThread on Tech Blog</title>
+    <link>/tags/multithread/</link>
+    <description>Recent content in MultiThread on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/multithread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process/Thread</title>
+      <link>/basics_of_computer_science/operating_system/process_thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/operating_system/process_thread/</guid>
+      <description>Process 와 Thread 프로세스 / Process 프로세스는 실행 중인 프로그램으로 디스크로부터 메모리에 적재되어 CPU 의 할당을 받을 수 있는 것을 말한다.
+운영체제로부터 주소 공간, 파일, 메모리 등을 할당받으며 이것들을 총칭하여 프로세스라고 한다.
+구체적으로 살펴보면 프로세스는 함수의 매개변수, 복귀 주소와 로컬 변수와 같은 임시 자료를 갖는 프로세스 스택과 전역 변수들을 수록하는 데이터 섹션을 포함한다.
+또한 프로세스는 프로세스 실행 중에 동적으로 할당되는 메모리인 힙을 포함한다.
+프로세스 제어 블록 (Process Control Block, PCB) PCB 는 특정 프로세스에 대한 중요한 정보를 저장 하고 있는 운영체제의 자료구조이다.</description>
+    </item>
+    
+  </channel>
+</rss>

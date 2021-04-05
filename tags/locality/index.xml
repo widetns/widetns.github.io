@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locality on Tech Blog</title>
+    <link>/tags/locality/</link>
+    <description>Recent content in Locality on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/locality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cache</title>
+      <link>/basics_of_computer_science/operating_system/cache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/operating_system/cache/</guid>
+      <description>Cache 캐시 메모리는 속도가 빠른 장치와 느린 장치간의 속도차에 따른 병목 현상을 줄이기 위한 범용 메모리이다. 이러한 역할을 수행하기 위해서는 CPU 가 어떤 데이터를 원할 것인가를 어느 정도 예측할 수 있어야 한다. 캐시의 성능은 작은 용량의 캐시 메모리에 CPU 가 이후에 참조할, 쓸모 있는 정보가 어느 정도 들어있느냐에 따라 좌우되기 때문이다.
+이 때 적중율(Hit rate) 을 극대화 시키기 위해 데이터 지역성(Locality) 의 원리를 사용한다. 지역성의 전제조건으로 프로그램은 모든 코드나 데이터를 균등하게 Access 하지 않는다는 특성을 기본으로 한다.</description>
+    </item>
+    
+  </channel>
+</rss>

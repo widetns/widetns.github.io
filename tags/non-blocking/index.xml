@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-blocking on Tech Blog</title>
+    <link>/tags/non-blocking/</link>
+    <description>Recent content in Non-blocking on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/non-blocking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sync/Async</title>
+      <link>/basics_of_computer_science/operating_system/sync_async/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/operating_system/sync_async/</guid>
+      <description>Sync 와 Async 먼저 Synchronous와 Asynchronous의 어원을 확인해보면 Synchronous의 Syn는 together이란 뜻이고, chrono는 time이다.
+따라서 Synchronous는 함께 시간을 맞춘다라는 뜻으로 해석된다.
+반면에 Asynchronous는 앞에 A라는 접두사가 붙어 부정하는 형태가 되어 시간을 맞추지 않는 것이라 해석할 수 있다.
+Sync와 Async를 다루려면 위 어원에서 볼 수 있듯이 함께 하는 대상이 누구인지, 그 대상들의 시간은 어떻게 다루어지는지 두 가지를 살펴봐야한다.
+동기 / Synchronous 동기는 두 가지 이상의 대상(함수, 애플리케이션 등)이 서로 시간을 맞춰 행동하는 것이다.</description>
+    </item>
+    
+  </channel>
+</rss>

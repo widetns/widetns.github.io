@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paradigm on Tech Blog</title>
+    <link>/tags/paradigm/</link>
+    <description>Recent content in Paradigm on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/tags/paradigm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paradigm</title>
+      <link>/basics_of_computer_science/common_sense_of_development/paradigm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/basics_of_computer_science/common_sense_of_development/paradigm/</guid>
+      <description>Programming Paradigm 위키백과에 프로그래밍 패러다임에 대한 내용은 아래와 같다.
+ 프로그래밍 패러다임은 프로그래머에게 프로그래밍의 관점을 갖게 해 주고, 결정하는 역할을 한다.
+ 여기서 알아볼 내용은 아래의 3가지 이다.
+ 명령형 프로그래밍: 프로그래밍의 상태와 상태를 변경시키는 구문의 관점에서 연산을 설명하는 방식  절차지향 프로그래밍: 수행되어야 할 연속적인 계산 과정을 포함하는 방식 (C, C++) 객체지향 프로그래밍: 객체들의 집합으로 프로그램의 상호작용을 표현 (C++, Java, C#)   선언형 프로그래밍: 어떤 방법으로 해야 하는지(How)를 나타내기보다 무엇(What)과 같은지를 설명하는 방식  함수형 프로그래밍: 순수 함수를 조합하고 소프트웨어를 만드는 방식 (클로저, 하스켈, 리스프)    Procedural Programming 절차지향 프로그래밍</description>
+    </item>
+    
+  </channel>
+</rss>

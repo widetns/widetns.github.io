@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCP/UDP on Tech Blog</title>
+    <link>/basics_of_computer_science/network/tcp_udp/</link>
+    <description>Recent content in TCP/UDP on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="/basics_of_computer_science/network/tcp_udp/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
